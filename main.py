@@ -25,9 +25,9 @@ MENU = {
 }
 
 resources = {
-    "water": 1000,
-    "milk": 800,
-    "coffee": 200,
+    "water": 1000, #this can be changed according to the user choice.
+    "milk": 800,  #this can be changed according to the user choice.
+    "coffee": 200,  #this can be changed according to the user choice.
 }
 
 def check_resources(c):
